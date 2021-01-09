@@ -17,3 +17,5 @@ sh ./jellyfish.sh
 Linux komut satırı ve termux üzerinde test edilmiştir.
 
 ***EKRAN GÖRÜNTÜSÜ*** 
+
+![screenshot](https://i.imgyukle.com/2021/01/09/aMI2wn.png)
